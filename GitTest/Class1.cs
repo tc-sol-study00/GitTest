@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 
 namespace GitTest {
     internal class Class1 {
-        4
+        5
     }
 }
